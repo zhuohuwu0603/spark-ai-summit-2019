@@ -18,17 +18,17 @@ Keypoints are
 
 ## Data Collection 
 
-- Each telescope collects certain spot of frequency-domain data.
+- Each telescope can only collect certain spot of frequency-domain data (like characteristic bandwidth).
 - Each telescope pairs up with one another to verify the dimension.
-- As Earth orbits, the reference of telescope changes and shifts the frequency-domain.
+- As Earth orbits, the reference of telescope changes and shifts the frequency-domain (bandwidth translation or something).
 - Keep collecting data while Earth orbits fills the frequency-domain plane with shifted data.
 
 ## Frequency-Domain data to Image
 
 - Original source was visible light range, sensed as frequency domain.
-- Thus, the researchers invert the frequency domain data into spatial visible light range.
+- Thus, do Fourier inverse transformation to convert it back to visible light range data.
 
-## Errors of measurements from a pair of telescopes
+## Account for folllowing measurement errors
 
 - Amplitude errors
 - Phase errors
