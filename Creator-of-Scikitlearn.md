@@ -2,10 +2,9 @@
 
 Vision from Gaël Varoquaux, RIA
 
-## Main focuses of the creator's team
+![IMG](media/e00014.jpg)
 
-Speeding up the process with following techniques
-
+## His team is focusing on improving speed as follows
 - Better batch processing
 - More seamless integration with Joblib
 - Smarter access to memory in C, not always exhaustively iterating the bytes
@@ -13,7 +12,7 @@ Speeding up the process with following techniques
 - Avoid unnecessary memory copy during numpy serialisation (PEP 574)
 - More distribution over network via `cloudpickle`
 
-Introduction or advices
+## Introduction or advices
 - Advice to use more often of `sklearn.impute.SimpleImpute`
 - Conditional impute with `sklearn.impute.ImperativeImputer` (v.0.21)
 - In case missing values are needed for prediction, use `ImperativeImputer(add_indicator=True)`

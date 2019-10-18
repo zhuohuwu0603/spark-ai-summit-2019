@@ -1,5 +1,7 @@
 # Blackhole Image/Video Reconstruction
 
+![IMG](media/e00007.jpg)
+
 Keypoints are
 - Inputs are not image pixels, but frequency domain data.
 - Input data has time delays due to attenuation factors of the telescopes.

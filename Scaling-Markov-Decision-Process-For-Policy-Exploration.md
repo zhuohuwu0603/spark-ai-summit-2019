@@ -1,5 +1,7 @@
 # Scaling Markov Decision Process (MDP) for Policy Exploration
 
+![IMG](media/e00001.jpg)
+
 Types of Complex system modeling:
 - Agent-based
 - Game Theory

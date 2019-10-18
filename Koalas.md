@@ -1,4 +1,7 @@
 # Koalas
+
+![IMG](media/e00011.jpg)
+
   - Abstraction over background SparkJob, with 100% Pandas syntaxes, similar structures (df, series)
   - Row indexing is compromised internally
   - Row indexing is less than 15% identical to Pandas
@@ -39,3 +42,5 @@ kdf = ks.read_parquet('PATH')
 kdf['c'] = kdf_another['a'] + kdf_another['b']
 
 ```
+
+![IMG](media/e00003.jpg)

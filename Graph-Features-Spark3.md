@@ -1,5 +1,7 @@
 # Graph Features in Spark 3.0
 
+![IMG](media/e00012.jpg)
+
 Graph availabilty in other providers:
 - Azure CosmosDB
 - Amazon Neptune

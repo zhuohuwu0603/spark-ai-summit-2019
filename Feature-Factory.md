@@ -1,5 +1,7 @@
 # Building Feature Factory
 
+![IMG](media/e00006.jpg)
+
 Basic concepts are:
 - Exposed as APIs (Framework)
 - Features are categorised into feature families

@@ -1,5 +1,7 @@
 # Dynamic Partition Pruning
 
+![IMG](media/e00005.jpg)
+
 - Based on Spark 3.0
 - Using 10 i3.xlarge machines on AWS
 - Can speed up the data reading up to 100x

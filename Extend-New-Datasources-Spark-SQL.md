@@ -2,6 +2,8 @@
 
 From the live coding session by Jacek Laskowski, a Spark contributor
 
+![IMG](media/e00002.jpg)
+
 ## Setup
 
 - Spark 2.12
