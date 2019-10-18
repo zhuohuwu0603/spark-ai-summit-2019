@@ -7,7 +7,7 @@ Graph availabilty in other providers:
 - GraphX in Spark (classical way of representing simple graph)
 
 ## Proposal
-- Spark-25994 : proposed to bring Cypher Query into Spark (originally developed by Neo4J)
+- [Spark-25994](https://issues.apache.org/jira/browse/SPARK-25994) : proposed to bring Cypher Query into Spark (originally developed by Neo4J)
 
 ## Cypher 
 Is a query language for graph developed by Neo4J.
