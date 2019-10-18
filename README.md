@@ -1,8 +1,14 @@
 # Spark+AI Summit 2019, Amsterdam
 
-Only taking notes on the sessions and keynotes I attended.
+[IMG](media/e00008.jpg)
+
+Keynotes from big names of the industry
 
 - Black hole image reconstruction (`Katie Bouman, Caltech`)
+- Creator of Scikit (`Gaël Varoquaux, RIA`)
+
+Notes from sessions I attended 
+
 - Dynamic Partition pruning (`Bogdan Ghit + Juliusz Sompolski, Databricks`)
 - Extend new data sources in Spark SQL (`Jacek Laskowski`)
 - Feature factory (`Daniel Tomes, Databricks`)
