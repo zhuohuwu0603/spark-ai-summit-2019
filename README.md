@@ -1,11 +1,13 @@
 # Spark+AI Summit 2019, Amsterdam
 
-[IMG](media/e00008.jpg)
+![IMG](media/e00008.jpg)
 
 Keynotes from big names of the industry
 
 - Black hole image reconstruction (`Katie Bouman, Caltech`)
 - Creator of Scikit (`Gaël Varoquaux, RIA`)
+
+![IMG](media/e000013.jpg)
 
 Notes from sessions I attended 
 
@@ -17,3 +19,6 @@ Notes from sessions I attended
 - Optimising Spark in practice (`Daniel Tomes, Resident Solutions`)
 - Scaling Markov Decision Process (`Justin Brandenburg, Databricks`)
 - Streaming (`Ittai Yaffe, Nielsen`)
+
+![IMG](media/e000010.jpg)
+![IMG](media/e000009.jpg)
